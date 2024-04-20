@@ -1,3 +1,3 @@
-# testesupabase
+# Simple Form
 
-A new Flutter project.
+Simple Form with Flutter and Supabase.
